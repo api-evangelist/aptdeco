@@ -1,0 +1,26 @@
+<!--
+generated: '2026-07-18'
+method: generated
+source: apis.yml + api-evangelist catalog (no provider-published /llms.txt; https://www.aptdeco.com/llms.txt returned 404)
+-->
+# AptDeco
+
+> AptDeco is a full-service online marketplace for buying and selling used, new, and vintage furniture, handling pickup, assembly, delivery, payment, scheduling, and logistics. Founded in 2014 in New York City, it serves the NYC metro, New Jersey, Connecticut, Philadelphia, Delaware, the San Francisco Bay Area, and additional US metros with national shipping. AptDeco publishes no public developer API; this file is generated from the API Evangelist catalog entry.
+
+## Company
+- [AptDeco website](https://www.aptdeco.com/): The easiest way to buy and sell used furniture — pickup and delivery included.
+- [About AptDeco](https://www.aptdeco.com/about): Company mission, story, and sustainability focus.
+- [How It Works](https://www.aptdeco.com/how-it-works): The buy/sell/deliver flow.
+- [Careers](https://www.aptdeco.com/careers): Open roles.
+
+## Support
+- [Help Center](https://help.aptdeco.com/): Customer FAQs and how-to guides.
+- [Contact Us](https://www.aptdeco.com/contact-us): Support contact.
+- [Money Back Guarantee](https://www.aptdeco.com/money-back-guarantee): Buyer protection policy.
+
+## Legal
+- [Privacy Policy](https://help.aptdeco.com/article/nkpsg5oii8-privacy-policy)
+- [Terms](https://help.aptdeco.com/category/terms)
+
+## Developer
+- [GitHub organization](https://github.com/aptdeco): Public repositories (utility forks; no first-party marketplace API or SDK published).

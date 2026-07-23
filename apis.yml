@@ -1,8 +1,13 @@
 aid: aptdeco
 name: AptDeco
-description: 'AptDeco is a company surfaced as a portfolio company of initialized-capital, y-combinator
-  and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'AptDeco is a full-service online marketplace for buying and selling used, new, and vintage
+  furniture. Founded in 2014 in New York City by Reham Fagiri and Kalam Dennis, the company handles the
+  entire resale transaction end to end: pickup, disassembly and assembly, delivery, payment, scheduling,
+  and logistics are all carried out by its own trained delivery teams. AptDeco serves the New York City
+  metro, New Jersey, Connecticut, Philadelphia, Delaware, and the San Francisco Bay Area, and has
+  expanded to additional US metros with national shipping. Backed by Y Combinator and Initialized
+  Capital. AptDeco does not publish a public developer API; this profile captures its public web,
+  support, legal, and developer surfaces for the API Evangelist network.'
 url: https://raw.githubusercontent.com/api-evangelist/aptdeco/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,12 +16,30 @@ x-backed-by:
 - y-combinator
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://static.aptdeco.com/aptdeco/c9418ec4-f217-47fd-86c2-90b2ac6e6c92_Homepage_Heroes_2021Dec_A.jpg?auto=format,compress&rect=0,0,1688,1000&w=844&h=500
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
 - Consumer
+- Marketplace
+- Furniture
+- Resale
+- Ecommerce
+- Logistics
+- Sustainability
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,4 +48,27 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: https://aptdeco.com/
+  url: https://www.aptdeco.com/
+- type: About
+  url: https://www.aptdeco.com/about
+- type: Support
+  url: https://help.aptdeco.com/
+- type: HelpCenter
+  url: https://help.aptdeco.com/
+- type: PrivacyPolicy
+  url: https://help.aptdeco.com/article/nkpsg5oii8-privacy-policy
+- type: TermsOfService
+  url: https://help.aptdeco.com/category/terms
+- type: GitHubOrganization
+  url: https://github.com/aptdeco
+- type: Careers
+  url: https://www.aptdeco.com/careers
+- type: DomainSecurity
+  url: security/aptdeco-domain-security.yml
+- type: LLMsTxt
+  url: llms/aptdeco-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
