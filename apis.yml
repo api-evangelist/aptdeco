@@ -28,7 +28,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://static.aptdeco.com/aptdeco/c9418ec4-f217-47fd-86c2-90b2ac6e6c92_Homepage_Heroes_2021Dec_A.jpg?auto=format,compress&rect=0,0,1688,1000&w=844&h=500
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
